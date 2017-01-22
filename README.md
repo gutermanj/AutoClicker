@@ -1,3 +1,3 @@
-# AutoClicker
+# Thank you for choosing AutoClicker!
 
-https://github.com/gutermanj/AutoClicker/raw/master/bin/Release/Teboscreen.exe
+[Download the latest release](https://github.com/gutermanj/AutoClicker/raw/master/bin/Release/Teboscreen.exe)
