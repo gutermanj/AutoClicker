@@ -1,0 +1,13 @@
+C:\Users\Julian\Downloads\Teboscreen_source_code\Teboscreen_source_code\Teboscreen\bin\Release\Teboscreen.exe.config
+C:\Users\Julian\Downloads\Teboscreen_source_code\Teboscreen_source_code\Teboscreen\bin\Release\Teboscreen.exe.manifest
+C:\Users\Julian\Downloads\Teboscreen_source_code\Teboscreen_source_code\Teboscreen\bin\Release\Teboscreen.application
+C:\Users\Julian\Downloads\Teboscreen_source_code\Teboscreen_source_code\Teboscreen\bin\Release\Teboscreen.exe
+C:\Users\Julian\Downloads\Teboscreen_source_code\Teboscreen_source_code\Teboscreen\bin\Release\Teboscreen.pdb
+C:\Users\Julian\Downloads\Teboscreen_source_code\Teboscreen_source_code\Teboscreen\obj\Release\Teboscreen.ControlPanel.resources
+C:\Users\Julian\Downloads\Teboscreen_source_code\Teboscreen_source_code\Teboscreen\obj\Release\Teboscreen.Form1.resources
+C:\Users\Julian\Downloads\Teboscreen_source_code\Teboscreen_source_code\Teboscreen\obj\Release\Teboscreen.Properties.Resources.resources
+C:\Users\Julian\Downloads\Teboscreen_source_code\Teboscreen_source_code\Teboscreen\obj\Release\Teboscreen.csproj.GenerateResource.Cache
+C:\Users\Julian\Downloads\Teboscreen_source_code\Teboscreen_source_code\Teboscreen\obj\Release\Teboscreen.exe.manifest
+C:\Users\Julian\Downloads\Teboscreen_source_code\Teboscreen_source_code\Teboscreen\obj\Release\Teboscreen.application
+C:\Users\Julian\Downloads\Teboscreen_source_code\Teboscreen_source_code\Teboscreen\obj\Release\Teboscreen.exe
+C:\Users\Julian\Downloads\Teboscreen_source_code\Teboscreen_source_code\Teboscreen\obj\Release\Teboscreen.pdb
